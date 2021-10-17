@@ -1,0 +1,6 @@
+CLI:
+To login to account : az login
+To list resource group : az group list
+
+
+
