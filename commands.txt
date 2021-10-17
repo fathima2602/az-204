@@ -1,6 +1,6 @@
 CLI:
 To login to account : az login
 To list resource group : az group list
-
+Commands cheat sheet : https://docs.microsoft.com/en-us/cli/azure/reference-index?view=azure-cli-latest
 
 
